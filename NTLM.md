@@ -1,5 +1,5 @@
 
-## NTLM = New Technology LAN Manager
+## NTLM - New Technology LAN Manager
 
 - **NetNTLM** is a challenge-response-based scheme used in NTLM - forwarded to Domain Controller - heavily used by the services on a network - can be exposed to internet.
 - Often refered to as Windows Authentication / NTLM Authentication
