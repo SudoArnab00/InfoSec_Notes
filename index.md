@@ -5,7 +5,7 @@
 - [SMD - Server Message Block](/SMB.md)
 - [SAM - Security Accounts Manager](/SAM.md)
 - [LLMNR - ](/LLMNR.md)
-- [MDT - ](/MDT.md)
+- [MDT - Microsoft Deployment Toolkit](/MDT.md)
 - [NBT-NS - ](/NBT-NS.md)
 - [PXE-Boot](/PXE-Boot.md)
 - [WPAD](/WPAD.md)
