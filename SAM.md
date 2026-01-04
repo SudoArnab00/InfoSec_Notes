@@ -16,3 +16,6 @@
  - part of windows registry hive
 
 **Note**: NTML AuthN is still used widely for legacy compatibility
+
+## Attacks
+- Pass-the-Hash (PtH) attack
