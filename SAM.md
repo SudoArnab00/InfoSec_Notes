@@ -18,4 +18,4 @@
 **Note**: NTML AuthN is still used widely for legacy compatibility
 
 ## Attacks
-- Pass-the-Hash (PtH) attack
+- [Pass-the-Hash (PtH) attack](/Attack-PtH.md)

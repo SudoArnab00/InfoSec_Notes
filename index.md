@@ -1,5 +1,5 @@
 
-## Concepts
+## Explainations
 - [NTLM - New Technology LAN Manager](/NTLM.md)
 - [LDAP - Lightweight Directory Access Protocol](/LDAP.md)
 - [SMD - Server Message Block](/SMB.md)
@@ -8,8 +8,10 @@
 - [MDT - Microsoft Deployment Toolkit](/MDT.md)
 - [NBT-NS - ](/NBT-NS.md)
 - [PXE-Boot](/PXE-Boot.md)
-- [WPAD](/WPAD.md)
-- 
+- [WPAD - ](/WPAD.md)
+- [WMI - ](/WMI.md)
+- [WBEM - ](/WBEM.md)
+- [Kerberos Authentication](/Kerberos-AuthN.md)
 
 ## Frameworks
 - [RITA - Real Intelligence Threat Analytics](/RITA-framework.md)

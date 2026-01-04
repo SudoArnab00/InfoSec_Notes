@@ -14,6 +14,8 @@
     - Web applications that are internet-facing and make use of NetNTLM.
 
 ### Attack
+To extract NTLM hashes, we can either use mimikatz to read the local SAM or extract hashes directly from LSASS memory. [Pass-the-Hash Attack](/Attack-PtH.md)
+
 Since there are always Auto locked account is configured in almost all AD setups, so [BruteForce attack]() is useless. 
 
 Attack to consider [Password Spray attack](https://owasp.org/www-community/attacks/Password_Spraying_Attack).
