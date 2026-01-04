@@ -40,3 +40,6 @@ Note:
 **noanonymous**: Disables mechanisms that support anonymous login
 **minssf**: Specifies the minimum acceptable security strength with 0, meaning no protection.
 
+## Mitigation
+Enforce Network Access Control (NAC) - NAC can prevent attackers from connecting rogue devices on the network. 
+However, it will require quite a bit of effort since legitimate devices will have to be allowlisted.
