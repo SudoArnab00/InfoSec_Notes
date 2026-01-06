@@ -21,6 +21,3 @@
 ## Attacks
 - [Pass-the-Hash](/Attack-Pth.md)
 - 
-
-## Share IT
-- [TestShareEncrypted](/TestEncrypt.7z)
