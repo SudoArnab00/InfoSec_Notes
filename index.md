@@ -12,6 +12,7 @@
 - [WMI - ](/WMI.md)
 - [WBEM - ](/WBEM.md)
 - [Kerberos Authentication](/Kerberos-AuthN.md)
+- [n8n](/n8n.md)
 
 ## Frameworks
 - [RITA - Real Intelligence Threat Analytics](/RITA-framework.md)
